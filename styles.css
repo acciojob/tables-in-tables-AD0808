@@ -1,2 +1,4 @@
-
-/* Your CSS Code here. */
+table,tr,td,th{
+	table-layout:fixed;
+	text-align:center;
+}
